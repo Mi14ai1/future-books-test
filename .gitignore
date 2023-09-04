@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/.idea
 .pnp.js
 
 # testing
@@ -21,3 +22,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/src/.idea/.gitignore
+/src/.idea/modules.xml
+/src/.idea/php.xml
+/src/.idea/src.iml
+/src/.idea/vcs.xml
